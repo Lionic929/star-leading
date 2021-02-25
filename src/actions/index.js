@@ -1,0 +1,14 @@
+export const NEWS = {
+  LOADING: 'NEWS.LOADING',
+  SET_LIST: 'NEWS.SET_LIST',
+};
+
+export const DONATE = {
+  LOADING: 'DONATE.LOADING',
+  SET_LIST: 'DONATE.SET_LIST',
+};
+
+export const MINIGAMES = {
+  LOADING: 'MINIGAMES.LOADING',
+  SET_LIST: 'MINIGAMES.SET_LIST',
+};

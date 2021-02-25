@@ -1,0 +1,10 @@
+{
+  "PAGE": {
+    "TITLE": "Error 404",
+    "SUB_TITLE": "This page is not found. Or it was server error."
+  },
+
+  "LOGIN_COULDNT_FOUND_USER": "Пользователя с таким логином не существует",
+  "LOGIN_UNCORRECT_PASSWORD_OR_LOGIN": "Неверный логин или пароль",
+  "INTERNAL_SERVER_ERROR": "Ошибка сервера"
+}

@@ -1,0 +1,12 @@
+{
+  "DEFAULT": {
+    "TITLE": "Website",
+    "DESCRIPTION": "website",
+    "KEYWORDS": ""
+  },
+  "HOME": {
+    "TITLE": "STAR Corp.",
+    "DESCRIPTION": "STAR Corp. Главная страница",
+    "KEYWORDS": ""
+  }
+}

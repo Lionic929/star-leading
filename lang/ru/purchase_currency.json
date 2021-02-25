@@ -1,0 +1,14 @@
+{
+  "TITLE": "Покупка валюты",
+  "SUBTITLE": "Вы всегда можете обменять реальный деньги на валюту STAR Coin.   За эту валюту вы сможете приобретать разные привилегии, придметы и отправлять ее в помощь другому игроку.",
+  "BUTTON": "Купить валюту",
+  "ALSO_ON_CURRENCY": "Также на валюту:",
+  "CATEGORIES": {
+    "BUILD_CRAFT": "Rust",
+    "STAR_CRAFT": "MiniGames",
+    "TNT_JUMP": "RaidPVP",
+    "SLOWMOTION": "Prison",
+    "MINIGAME": "Creative",
+    "SUPERGAME": "Другое"
+  }
+}
